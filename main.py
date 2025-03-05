@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import requests
 from fastapi import FastAPI
@@ -242,7 +241,3 @@ def consultar_envio(email: str):
         return {
             "error": f"Error en la consulta a HubSpot: {response.status_code} - {response.text}"
         }
-
-
-
->>>>>>> fff362d6cd7af4c9daeddb856481d5d1ff6b16a9
