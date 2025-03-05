@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 requests
+=======
+fastapi
+uvicorn
+requests
+>>>>>>> fff362d6cd7af4c9daeddb856481d5d1ff6b16a9
